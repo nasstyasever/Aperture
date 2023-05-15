@@ -134,6 +134,8 @@ header nav ul li:last-of-type a {
     text-align: center;
     color: #C0C0C0;
     margin-bottom: 12px;
+
+    margin-top: 25px;
 }
 
 .get_in {
