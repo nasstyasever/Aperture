@@ -1,0 +1,44 @@
+@media only screen and (max-width: 768px) {
+    header nav ul li {
+        margin-left: 12px;
+    }
+}
+
+@media only screen and (max-width: 668px) {
+    header nav ul li {
+        margin-left: 5px;
+    }
+    header nav ul li a {
+        font-size: 10px;
+    }
+}
+
+@media only screen and (max-width: 1151px) {
+    .what_we_do .d-flex {
+        justify-content: center;
+    }
+    .clients .clients_list {
+        padding-right: 80px;
+        padding-left: 80px;
+    }
+    .need_photo h2 {
+        margin-right: 12px;
+        margin-left: 12px;
+    }
+}
+
+@media only screen and (max-width: 980px) {
+    header nav ul {
+        display: block;
+    }
+    header nav ul li {
+        margin-bottom: 12px;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    .clients .clients_list {
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+}

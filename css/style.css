@@ -241,6 +241,42 @@ header nav ul li:last-of-type a {
     color: #C0C0C0;
 }
 
+.clients{
+    background-color: black;
+}
+
+.clients .container {
+    padding-top: 113px;
+    padding-bottom: 140px;
+    text-align: center;
+}
+
+.clients h2 {
+    font-family: 'poppinsregular';
+    font-size: 40px;
+    line-height: 42px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 15px;
+}
+
+.clients h3 {
+    font-family: 'poppinsregular';
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+    color: #C0C0C0;
+    margin-bottom: 80px;
+}
+
+.clients .clients_list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 136px;
+    padding-left: 136px;
+}
+
 .need_photo {
     background-color: black;
 }
