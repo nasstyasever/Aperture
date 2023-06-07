@@ -158,6 +158,25 @@ header nav ul li:last-of-type a {
     max-width: 1168px;
     margin: auto;
 }
+
+.what_we_do h2 {
+    font-family: 'poppinsregular';
+    font-size: 40px;
+    line-height: 42px;
+    text-align: center;
+    color: #FFFFFF;
+    padding-bottom: 15px;
+}
+
+.what_we_do h4 {
+    font-family: 'poppinsregular';
+    font-size: 23px;
+    line-height: 30px;
+    text-align: center;
+    color: #C0C0C0;
+    padding-bottom: 42px;
+}
+
 .what_we_do .d-flex{
     display: flex;
     justify-content: space-between;
@@ -246,8 +265,10 @@ header nav ul li:last-of-type a {
 }
 
 .clients .container {
-    padding-top: 113px;
-    padding-bottom: 140px;
+    max-width: 1200px;
+    margin: auto;
+    padding-top: 120px;
+    padding-bottom: 100px;
     text-align: center;
 }
 
@@ -273,8 +294,8 @@ header nav ul li:last-of-type a {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-right: 136px;
-    padding-left: 136px;
+    padding-right: 16px;
+    padding-left: 16px;
 }
 
 .need_photo {
