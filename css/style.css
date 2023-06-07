@@ -368,7 +368,7 @@ header nav ul li:last-of-type a {
 }
 
 .clients .owl-nav .owl-prev{
-    background-image: url("/images/round.svg")!important;
+    background-image: url("../images/round.svg")!important;
     width: 65px;
     height: 65px;
     position: absolute;
@@ -381,7 +381,7 @@ header nav ul li:last-of-type a {
     border-bottom-right-radius: 50%;
 }
 .clients .owl-nav .owl-next{
-    background-image: url("/images/round.svg")!important;
+    background-image: url("../images/round.svg")!important;
     width: 65px;
     height: 65px;
     position: absolute;
