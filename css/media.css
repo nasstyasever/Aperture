@@ -9,6 +9,16 @@
     }
 }
 
+.clients .owl-nav .owl-prev{
+    background-image: none;
+    background-color: black;
+}
+
+.clients .owl-nav .owl-next{
+    background-image: none;
+    background-color: black;
+}
+
 @media only screen and (max-width: 1000px) {
     .clients .clients_list {
         flex-wrap: wrap;
