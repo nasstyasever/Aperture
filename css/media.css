@@ -1,3 +1,13 @@
+@media only screen and (max-width: 1199px) {
+    .clients .owl-nav .owl-prev {
+        display: none;
+    }
+
+    .clients .owl-nav .owl-next {
+        display: none;
+    }
+}
+
 @media only screen and (max-width: 1151px) {
     .what_we_do .d-flex {
         justify-content: center;
@@ -7,16 +17,6 @@
         margin-right: 12px;
         margin-left: 12px;
     }
-}
-
-.clients .owl-nav .owl-prev{
-    background-image: none;
-    background-color: black;
-}
-
-.clients .owl-nav .owl-next{
-    background-image: none;
-    background-color: black;
 }
 
 @media only screen and (max-width: 1000px) {
