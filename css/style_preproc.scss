@@ -82,23 +82,11 @@ header {
             padding: 11px 28px;
             @include max-screen (403px) {
               font-size: 10px;
-              line-height: 28px;
-              letter-spacing: 0.4px;
-              color: $black_color;
-              text-decoration: none;
-              background: $white_color;
-              border-radius: 14px;
               padding: 8px 18px;
             }
             @include max-screen (328px) {
               font-size: 8px;
               line-height: 18px;
-              letter-spacing: 0.4px;
-              color: $black_color;
-              text-decoration: none;
-              background: $white_color;
-              border-radius: 14px;
-              padding: 8px 18px;
             }
           }
         }
