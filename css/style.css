@@ -154,6 +154,7 @@ header nav ul li:last-of-type a {
     background-color: #000000;
     padding: 113px 0 84px;
 }
+
 .what_we_do .container{
     max-width: 1168px;
     margin: auto;
@@ -182,6 +183,7 @@ header nav ul li:last-of-type a {
     justify-content: space-between;
     flex-wrap: wrap;
 }
+
 .what_we_do article{
     max-width: 576px;
     margin-bottom: 16px;
@@ -224,7 +226,6 @@ header nav ul li:last-of-type a {
     justify-content: flex-end;
     align-items: center;
     position: relative;
-
 }
 
 .sunset {
@@ -380,6 +381,7 @@ header nav ul li:last-of-type a {
     border-bottom-left-radius: 50%;
     border-bottom-right-radius: 50%;
 }
+
 .clients .owl-nav .owl-next{
     background-image: url("../images/round.svg")!important;
     width: 65px;
@@ -417,6 +419,7 @@ footer .container:nth-of-type(2){
     border-top: solid 2px white;
     padding: 36px 0;
 }
+
 footer .container:nth-of-type(2) .ft_right{
     width: 100%;
     max-width: 458px;
@@ -430,21 +433,26 @@ footer .container:nth-of-type(3){
 footer .logo{
     margin-bottom: 20px;
 }
+
 footer .ft_left p{
     font-family: 'poppinsregular';
     font-size: 13px;
     line-height: 20px;
     color: #C0C0C0;
 }
+
 footer .ft_right{
     display: flex;
 }
+
 footer .ft_right ul{
     list-style: none;
 }
+
 footer .ft_right ul:first-of-type{
     margin-right: 55px;
 }
+
 footer .ft_right li{
     margin-bottom: 10px;
     font-family: 'poppinsregular';
@@ -454,6 +462,7 @@ footer .ft_right li{
     text-transform: uppercase;
     color: #C0C0C0;
 }
+
 footer .ft_right li a{
     text-decoration: none;
     text-transform: capitalize;
@@ -462,6 +471,7 @@ footer .ft_right li a{
     line-height: 20px;
     color: #FFFFFF;
 }
+
 footer .ft_left h3{
     font-family: 'poppinsregular';
     font-size: 14px;
@@ -470,12 +480,14 @@ footer .ft_left h3{
     color: #FFFFFF;
     margin-bottom: 20px;
 }
+
 footer .ft_left h4{
     font-family: 'poppinsregular';
     font-size: 13px;
     line-height: 20px;
     color: #C0C0C0;
 }
+
 footer .ft_right form{
     background: #F9FAFB;
     border: 1px solid #E5E7EB;
@@ -485,12 +497,14 @@ footer .ft_right form{
     padding: 11px 6px;
     width: 100%;
 }
+
 footer .ft_right form input{
     width: 75%;
     display: inline-block;
     border: none;
     background-color: transparent;
 }
+
 footer .ft_right form button{
     border: none;
     background: #000000;
